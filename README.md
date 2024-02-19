@@ -18,7 +18,7 @@ Auto trade on Backpack exchange with Javascript:
 
 4. Install NodeJS: [How to install Nodejs](https://www.geeksforgeeks.org/installation-of-node-js-on-windows) (Version >= v18.16.0 ขึ้นไป) 
 
-5. เปิด file ```index.js``` สำรหัสที่ได้จาก Back packมาใส่ในช้อง ```API_KEY``` และ ```API_SECRET```:
+5. เปิด file ```index.js``` ใส่รหัสที่ได้จาก Back packมาใส่ในช้อง ```API_KEY``` และ ```API_SECRET```:
 
 
 6. Start
